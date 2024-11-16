@@ -6,8 +6,8 @@
 
 LiquidCrystal_I2C lcd(0x27, 20, 4);
 
-const char* ssid = "791TranXuanSoan";        // Thay bằng tên Wi-Fi của bạn
-const char* password = "67896789"; // Thay bằng mật khẩu Wi-Fi của bạn
+const char* ssid = "xxxx";        // Thay bằng tên Wi-Fi của bạn
+const char* password = "xxxx"; // Thay bằng mật khẩu Wi-Fi của bạn
 
 // URL của API TimeAPI
 const char* timeServer = "https://timeapi.io/api/time/current/zone?timeZone=Asia%2FHo_Chi_Minh";  // API lấy giờ từ Hồ Chí Minh
